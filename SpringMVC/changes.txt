@@ -1,0 +1,18 @@
+login page: pwd ajax
+bootstrap alert for registration
+modal
+login: left side(carousel) right side(login)
+
+employee login:
+name with sap id right side
+leave request:
+message as pop up
+
+add employee:
+move button: error page without selecting employee
+
+registration:
+dont allow any user to register with same sap_id
+
+logout:
+under name dropdown
